@@ -2,5 +2,5 @@
 - 👀 I’m interested in c++ , lua ,c# programming
 - 🌱 I’m currently learning JavaScript , Python
 - 💞️ I am looking to collaborate with serious people. 
-- 📫 If u want something - dm me in discord : Shiz#7777
+- 📫 If u want something - dm me in discord : Shiz#1337
 
